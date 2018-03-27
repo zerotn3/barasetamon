@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "moment": "^2.21.0",
+    "node-binance-api": "^0.4.25",
+    "node-bittrex-api": "^0.8.3",
+    "node-telegram-bot-api": "^0.30.0",
+    "ramda": "^0.25.0",
+    "technicalindicators": "^1.1.8",
+    "yarn": "^1.5.1"
+  },
+  "name": "barasetamon",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
