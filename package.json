@@ -7,7 +7,7 @@
     "node-telegram-bot-api": "^0.30.0",
     "ramda": "^0.25.0",
     "technicalindicators": "^1.1.8",
-    "yarn": "^1.5.1"
+    "yarn": "^1.17.3"
   },
   "name": "barasetamon",
   "version": "1.0.0",
